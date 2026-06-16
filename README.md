@@ -103,9 +103,9 @@ Professional portfolio showcasing projects, achievements, and technical skills.
 
 📧 [bhuvanesh0709@gmail.com](mailto:bhuvanesh0709@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/bhuvanesh0709
+💼 LinkedIn: www.linkedin.com/in/bhuvanesh0709
 
-🌍 Portfolio: Add Portfolio URL
+🌍 Portfolio: https://bhuvi-six.vercel.app/
 
 🐙 GitHub: github.com/saidai-bhuvanesh
 

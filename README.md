@@ -1,24 +1,9 @@
+
+<div align="center">
+
 # 👋 Hi, I'm Bhuvanesh S
 
 ### 🚀 AI & Data Science Student | Frontend Developer | AI Automation Builder
-
-🏆 Hackathon Winner  
-🌍 Open Source Contributor @ GirlScript Summer of Code 2026  
-💡 Passionate about AI, Frontend Development & Automation  
-📍 Chennai, India
-
----
-
-## 🚀 About Me
-
-- 🎓 AI & Data Science Student
-- 🌱 Currently learning Full Stack Development & AI Automation
-- 🔭 Open Source Contributor
-- 🏆 Hackathon Winner
-- 💬 Ask me about React, Python, GitHub & Automation
-- ⚡ Fun Fact: I love building projects that solve real-world problems
-
----
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +38,14 @@
 </p>
 
 ---
+
+## 🎯 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🤖 Building AI Automation Workflows
+- 🌍 Contributing to Open Source
+- 🚀 Preparing for Top Tech Internships
+- 💼 Developing Production-Ready Projects
 
 ## 🏆 Achievements
 
@@ -119,6 +112,11 @@ Professional portfolio showcasing projects and achievements.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=saidai-bhuvanesh&color=blue)
+![Followers](https://img.shields.io/github/followers/saidai-bhuvanesh?style=social)
+![Stars](https://img.shields.io/github/stars/saidai-bhuvanesh?style=social)</div>
+
 <a href="https://bhuvi-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -129,9 +127,3 @@ Professional portfolio showcasing projects and achievements.
 ## 💭 Developer Motto
 
 > Build. Learn. Contribute. Repeat. 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=saidai-bhuvanesh&color=blue)
-
-![Followers](https://img.shields.io/github/followers/saidai-bhuvanesh?style=social)
-
-![Stars](https://img.shields.io/github/stars/saidai-bhuvanesh?style=social)

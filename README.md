@@ -99,11 +99,7 @@ Professional portfolio showcasing projects and achievements.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saidai-bhuvanesh&theme=tokyonight&margin-w=15"/>
-</p>
-
----
+---](https://github-profile-trophy.vercel.app/?username=saidai-bhuvanesh)
 
 ## 🐍 Contribution Snake
 

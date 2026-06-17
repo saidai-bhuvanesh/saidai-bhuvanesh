@@ -114,18 +114,17 @@ Professional portfolio showcasing projects and achievements.
 ---
 
 ## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/bhuvanesh0709">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/saidai-bhuvanesh">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://bhuvi-six.vercel.app">
-🌍 Portfolio
+<a href="https://bhuvi-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 

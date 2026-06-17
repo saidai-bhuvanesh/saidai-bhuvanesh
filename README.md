@@ -134,3 +134,9 @@ Professional portfolio showcasing projects and achievements.
 ## 💭 Developer Motto
 
 > Build. Learn. Contribute. Repeat. 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=saidai-bhuvanesh&color=blue)
+
+![Followers](https://img.shields.io/github/followers/saidai-bhuvanesh?style=social)
+
+![Stars](https://img.shields.io/github/stars/saidai-bhuvanesh?style=social)
